@@ -1,0 +1,27 @@
+
+-----
+Test: tests/test_google_map_api.py::Test_create_place::test_create_new_place (call)
+Time: 2023-04-11 21:20:40.057358
+Request method: GET
+Request URL: https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=07d35cc714c6d075c8f0a05c0b4a04a7
+
+
+-----
+
+-----
+Test: tests/test_google_map_api.py::Test_create_place::test_create_new_place (call)
+Time: 2023-04-11 21:20:42.792701
+Request method: GET
+Request URL: https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=07d35cc714c6d075c8f0a05c0b4a04a7
+
+
+-----
+
+-----
+Test: tests/test_google_map_api.py::Test_create_place::test_create_new_place (call)
+Time: 2023-04-11 21:20:45.512356
+Request method: GET
+Request URL: https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=07d35cc714c6d075c8f0a05c0b4a04a7
+
+
+-----
